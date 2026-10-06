@@ -1,0 +1,14 @@
+Generated with the built-in imagegen tool.
+
+Use case: stylized-concept
+Asset type: standalone raster background for a premium developer portfolio website.
+Primary request: an original cinematic monochrome planet horizon image, landscape 16:9, ideally 2048 x 1152 pixels.
+Scene/backdrop: deep nearly pure black space. The top 60 percent must remain almost completely black, empty negative space suitable for white hero text.
+Subject: an immense dark charcoal and graphite planet surface sweeping across the bottom of the frame. The planet is so large its full globe is never visible. A very thin soft luminous silver rim starts close to the lower-left edge and gently arches upward toward the center and right, with the highest part of the horizon around the bottom third. The lit horizon must stay delicate and quiet, softly feathered with almost no atmospheric glow. The lower portion is the shadowed planet surface.
+Style/medium: refined realistic cinematic 3D planetary landscape with understated fine stone texture.
+Lighting/mood: calm, premium, minimal, low key. A soft distant warm-white light grazes only the horizon, the entire planet interior stays extremely dark.
+Color palette: black, graphite, charcoal, soft silver and faint warm-white; strictly monochrome.
+Materials/textures: faint natural fine stone grain on the planet only, mostly swallowed by darkness, with a few sparse tiny dust motes very close to the rim.
+Composition/framing: wide 16:9 panoramic background, broad uninterrupted negative space above the horizon and a gently curved horizon near the lower edge.
+Constraints: standalone scene only, no interface, no typography, no text, no logos, no watermarks, no people, no objects floating above the planet.
+Avoid: rings, gyroscope, orbital rings, blue, purple, neon, colored light, starfield, bright stars, nebulae, strong glow, sunrise disk, dramatic mountains, craters, busy surface detail, visible complete sphere.
