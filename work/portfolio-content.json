@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "Mykola Lukyniuk — Software & Automation",
+    "description": "Custom Python applications, Telegram bots, API integrations, and automation tools built around real problems."
+  },
+  "hero": {
+    "eyebrow": "Software · Automation · Systems",
+    "monogram": "ML",
+    "headline": "I build software that saves time and simplifies work.",
+    "subheadline": "Custom Python applications, Telegram bots, API integrations, and automation tools — built around real problems.",
+    "availability": "Available for projects",
+    "location": "Ivano-Frankivsk, Ukraine"
+  },
+  "about": {
+    "heading": "Software that makes",
+    "headingMuted": "the work flow.",
+    "body": "I’m Mykola, a student of Automation and Computer-Integrated Technologies at IFNTUOG. My projects connect interfaces, data and automation — turning separate steps into a system people can actually use."
+  },
+  "contact": {
+    "heading": "A useful idea.",
+    "headingMuted": "A working system.",
+    "body": "Have a process to automate, data to connect or a technical idea to bring to life? That’s where I can help.",
+    "email": "lukyniuk.mykola@gmail.com",
+    "telegram": "https://t.me/zpxde"
+  },
+  "social": {
+    "github": "https://github.com/lukyniukmykola-create",
+    "linkedin": "https://www.linkedin.com/in/%D0%BC%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0-%D0%BB%D1%83%D0%BA%D0%B8%D0%BD%D1%8E%D0%BA-83287a436/",
+    "instagram": "https://www.instagram.com/mykola.lukyniukk/",
+    "facebook": ""
+  },
+  "resume": {
+    "file": "../outputs/Mykola-Lukyniuk-Resume.pdf",
+    "downloadName": "Mykola-Lukyniuk-Resume.pdf"
+  }
+}
