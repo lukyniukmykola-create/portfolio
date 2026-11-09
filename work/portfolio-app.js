@@ -5,8 +5,9 @@
   if('scrollRestoration' in history)history.scrollRestoration='manual';
   const systemMotion=matchMedia('(prefers-reduced-motion: reduce)');
   const finePointer=matchMedia('(hover: hover) and (pointer: fine)');
-  let motionOff=systemMotion.matches,motionChoice=null;
-  try{const savedMotion=localStorage.getItem('ml-motion-mode');if(savedMotion==='full'||savedMotion==='reduced'){motionOff=savedMotion==='reduced';motionChoice=!motionOff;}}catch{}
+  // Every page entry begins with the full intro. The compact settings menu can
+  // still reduce motion for the current visit.
+  let motionOff=false,motionChoice=true;
   root.dataset.motion=motionOff?'reduced':'full';
   const motionButton=document.querySelector('#motion-toggle');
   const settings=document.querySelector('.site-settings');
